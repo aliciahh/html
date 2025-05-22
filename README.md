@@ -1,4 +1,3 @@
-index.html
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -12,8 +11,8 @@ index.html
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
+        <img src="img/avatar-perfil.png" alt="avatar da Alicia" class="rounded-circle" width="150" height="150" srcset="">
+        <p class="lead">Eu sou Alicia_</p>
         <h1>Eu ensino Programação</h1>
         <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
             Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
